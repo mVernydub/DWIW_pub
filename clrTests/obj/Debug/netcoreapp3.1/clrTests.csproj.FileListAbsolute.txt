@@ -1,0 +1,11 @@
+/Users/mvernyd/myGit/clrTests/bin/Debug/netcoreapp3.1/clrTests
+/Users/mvernyd/myGit/clrTests/bin/Debug/netcoreapp3.1/clrTests.deps.json
+/Users/mvernyd/myGit/clrTests/bin/Debug/netcoreapp3.1/clrTests.runtimeconfig.json
+/Users/mvernyd/myGit/clrTests/bin/Debug/netcoreapp3.1/clrTests.runtimeconfig.dev.json
+/Users/mvernyd/myGit/clrTests/bin/Debug/netcoreapp3.1/clrTests.dll
+/Users/mvernyd/myGit/clrTests/bin/Debug/netcoreapp3.1/clrTests.pdb
+/Users/mvernyd/myGit/clrTests/obj/Debug/netcoreapp3.1/clrTests.csprojAssemblyReference.cache
+/Users/mvernyd/myGit/clrTests/obj/Debug/netcoreapp3.1/clrTests.AssemblyInfoInputs.cache
+/Users/mvernyd/myGit/clrTests/obj/Debug/netcoreapp3.1/clrTests.AssemblyInfo.cs
+/Users/mvernyd/myGit/clrTests/obj/Debug/netcoreapp3.1/clrTests.dll
+/Users/mvernyd/myGit/clrTests/obj/Debug/netcoreapp3.1/clrTests.pdb
